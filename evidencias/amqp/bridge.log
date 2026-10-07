@@ -1,0 +1,30 @@
+2026-10-07T21:19:56.994Z Iniciando registro en DPS (HTTP)...
+2026-10-07T21:20:00.318Z DPS OK, hub asignado: iotc-88b83094-019e-48a1-b6c8-d4f3e2fd0c7f.azure-devices.net
+2026-10-07T21:20:00.831Z AMQP abierto con iotc-88b83094-019e-48a1-b6c8-d4f3e2fd0c7f.azure-devices.net
+2026-10-07T21:20:03.255Z conectado al broker 127.0.0.1:5672
+2026-10-07T21:20:03.486Z <- broker {"HeartRate":67,"SPO2":96.2,"Temperature":37.6}
+2026-10-07T21:20:03.488Z <- broker {"HeartRate":86,"SPO2":93.2,"Temperature":37.5}
+2026-10-07T21:20:03.488Z <- broker {"HeartRate":70,"SPO2":94.6,"Temperature":36}
+2026-10-07T21:20:03.489Z <- broker {"HeartRate":80,"SPO2":96.4,"Temperature":36.7}
+2026-10-07T21:20:03.489Z <- broker {"HeartRate":107,"SPO2":93,"Temperature":37.8}
+2026-10-07T21:20:03.489Z <- broker {"HeartRate":101,"SPO2":94.1,"Temperature":36.7}
+2026-10-07T21:20:03.489Z <- broker {"HeartRate":71,"SPO2":95,"Temperature":37.1}
+2026-10-07T21:20:03.489Z <- broker {"HeartRate":102,"SPO2":95.1,"Temperature":37.7}
+2026-10-07T21:20:03.490Z <- broker {"HeartRate":77,"SPO2":92.2,"Temperature":38.1}
+2026-10-07T21:20:03.490Z <- broker {"HeartRate":60,"SPO2":100,"Temperature":36.9}
+2026-10-07T21:20:03.692Z <- broker {"HeartRate":70,"SPO2":98.6,"Temperature":37.1}
+2026-10-07T21:20:03.693Z <- broker {"HeartRate":104,"SPO2":96.8,"Temperature":37.3}
+2026-10-07T21:20:03.693Z <- broker {"HeartRate":64,"SPO2":97.8,"Temperature":37.3}
+2026-10-07T21:20:03.770Z -> Central (AMQP) OK
+2026-10-07T21:20:03.893Z -> Central (AMQP) OK
+2026-10-07T21:20:03.893Z -> Central (AMQP) OK
+2026-10-07T21:20:03.894Z -> Central (AMQP) OK
+2026-10-07T21:20:03.894Z -> Central (AMQP) OK
+2026-10-07T21:20:03.895Z -> Central (AMQP) OK
+2026-10-07T21:20:03.895Z -> Central (AMQP) OK
+2026-10-07T21:20:03.896Z -> Central (AMQP) OK
+2026-10-07T21:20:03.896Z -> Central (AMQP) OK
+2026-10-07T21:20:03.897Z -> Central (AMQP) OK
+2026-10-07T21:20:03.897Z -> Central (AMQP) OK
+2026-10-07T21:20:03.982Z -> Central (AMQP) OK
+2026-10-07T21:20:03.983Z -> Central (AMQP) OK
