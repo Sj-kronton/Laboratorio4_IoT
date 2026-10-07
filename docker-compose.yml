@@ -1,0 +1,11 @@
+services:
+  artemis:
+    image: apache/activemq-artemis:latest
+    container_name: broker-amqp
+    environment:
+      ARTEMIS_USER: lab4
+      ARTEMIS_PASSWORD: ${BROKER_PASS}
+    ports:
+      - "5672:61616"   # AMQP 1.0
+      - "8161:8161"    # consola web
+    restart: unless-stopped
